@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.1585.0"
-  }
+    "aws-sdk": "^2.1587.0"
+  },
+  "name": "medium-demo-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham9919/medium-demo-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham9919/medium-demo-repo/issues"
+  },
+  "homepage": "https://github.com/shubham9919/medium-demo-repo#readme",
+  "description": ""
 }
